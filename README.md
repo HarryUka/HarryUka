@@ -16,9 +16,11 @@ I'm **Harrison O. Ukaegbu**, a highly skilled software engineer with a passion f
 I'm driven by a perpetual thirst for knowledge and a commitment to excellence. Let's collaborate and build something extraordinary! 🚀
 
 
+<!--
 <img 
    src="https://github-readme-stats.vercel.app/api?username=HarryUka&show_icons=true&theme=tokyonight" 
 /> 
+-->
 
   
 
