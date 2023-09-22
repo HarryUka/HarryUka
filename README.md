@@ -1,16 +1,19 @@
-### Hi there  friend👋
 
-<!--
-**HarryUka/HarryUka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="profile_picture.jpg" alt="Harrison O. Ukaegbu" width="150" height="150">
+</div>
 
-Here are some ideas to get you started:
+# Greetings from GA! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Harrison O. Ukaegbu**, a highly skilled software engineer with a passion for crafting seamless digital experiences. Currently, I'm:
+
+- 🔭 Working on a CONTACT-TRACING APPLICATION
+- 🌱 Learning cutting-edge techniques in machine learning and AI.
+- 👯 Open to collaborating on innovative software projects.
+- 💬 Happy to discuss anything related to API development, machine learning, or infrastructure automation.
+- 📫 Reach me at [ukaegbuharrisonmary@gmail.com](mailto:ukaegbuharrisonmary@gmail.com).
+
+I'm driven by a perpetual thirst for knowledge and a commitment to excellence. Let's collaborate and build something extraordinary! 🚀
+
+
+
